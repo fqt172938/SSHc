@@ -11,11 +11,15 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>struts1</artifactId>
-    <packaging>war</packaging>
+    <packaging>pom</packaging>
 
     <name>struts1 Maven Webapp</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
+    <modules>
+        <module>../struts3</module>
+        <module>../struts4</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

@@ -4,16 +4,22 @@
     <file type="web" url="file://$PROJECT_DIR$/struts1" />
     <file type="web" url="file://$PROJECT_DIR$/struts2" />
     <file type="web" url="file://$PROJECT_DIR$/struts3" />
+    <file type="web" url="file://$PROJECT_DIR$/struts4" />
+    <file type="web" url="file://$PROJECT_DIR$/struts5" />
+    <file type="web" url="file://$PROJECT_DIR$/struts6" />
     <file type="web" url="file://$PROJECT_DIR$/Test" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/Test/pom.xml" />
+        <option value="$PROJECT_DIR$/struts4/pom.xml" />
+        <option value="$PROJECT_DIR$/struts6/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/Test/pom.xml" />
         <option value="$PROJECT_DIR$/struts1/pom.xml" />
       </set>
     </option>
