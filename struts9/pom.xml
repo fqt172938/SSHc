@@ -2,17 +2,18 @@
 
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>struts8</artifactId>
+        <groupId>cn.edu.cap</groupId>
+        <version>1.0-SNAPSHOT</version>
+        <relativePath>../struts8/pom.xml</relativePath>
+    </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>cn.edu.cap</groupId>
-    <artifactId>struts8</artifactId>
-    <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>../struts9</module>
-    </modules>
-    <packaging>pom</packaging>
+    <artifactId>struts9</artifactId>
+    <packaging>war</packaging>
 
-    <name>struts8 Maven Webapp</name>
+    <name>struts9 Maven Webapp</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
 
@@ -64,7 +65,7 @@
     </dependencies>
 
     <build>
-        <finalName>struts8</finalName>
+        <finalName>struts9</finalName>
         <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
             <plugins>
                 <plugin>
