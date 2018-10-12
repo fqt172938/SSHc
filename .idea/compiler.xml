@@ -6,7 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Spring1" />
+        <module name="Spring2" />
+        <module name="Spring3" />
         <module name="struts10" />
         <module name="struts2" />
         <module name="struts3" />
@@ -17,6 +18,8 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Spring1" target="1.7" />
+      <module name="Spring2" target="1.7" />
+      <module name="Spring3" target="1.7" />
       <module name="struts1" target="1.7" />
       <module name="Struts1" target="1.7" />
       <module name="struts10" target="1.7" />
