@@ -3,6 +3,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/Spring2" />
     <file type="web" url="file://$PROJECT_DIR$/Spring3" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring4" />
     <file type="web" url="file://$PROJECT_DIR$/struts1" />
     <file type="web" url="file://$PROJECT_DIR$/struts10" />
     <file type="web" url="file://$PROJECT_DIR$/struts2" />
@@ -25,6 +26,7 @@
         <option value="$PROJECT_DIR$/struts8/pom.xml" />
         <option value="$PROJECT_DIR$/Spring1/pom.xml" />
         <option value="$PROJECT_DIR$/Spring3/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring4/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
