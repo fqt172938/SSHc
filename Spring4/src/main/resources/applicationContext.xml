@@ -32,8 +32,8 @@
         <property name="admin">
             <bean id="admin" class="cap.bean.Admin">
                 <property name="id" value="1"/>
-                <property name="username" value="starlee2008"/>
-                <property name="password" value="starlee2008"/>
+                <property name="username" value="qiting"/>
+                <property name="password" value="qiting"/>
             </bean>
         </property>
 
