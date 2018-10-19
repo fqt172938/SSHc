@@ -4,6 +4,9 @@
     <file type="web" url="file://$PROJECT_DIR$/Spring2" />
     <file type="web" url="file://$PROJECT_DIR$/Spring3" />
     <file type="web" url="file://$PROJECT_DIR$/Spring4" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring4x" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring5" />
+    <file type="web" url="file://$PROJECT_DIR$/Spring6" />
     <file type="web" url="file://$PROJECT_DIR$/struts1" />
     <file type="web" url="file://$PROJECT_DIR$/struts10" />
     <file type="web" url="file://$PROJECT_DIR$/struts2" />
@@ -27,6 +30,8 @@
         <option value="$PROJECT_DIR$/Spring1/pom.xml" />
         <option value="$PROJECT_DIR$/Spring3/pom.xml" />
         <option value="$PROJECT_DIR$/Spring4/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring4x/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring6/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -36,7 +41,7 @@
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_9" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
