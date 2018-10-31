@@ -10,9 +10,10 @@
         <module name="Spring3" />
         <module name="Spring4" />
         <module name="Spring5" />
-        <module name="spring6" />
         <module name="Spring6" />
+        <module name="spring6" />
         <module name="Spring7" />
+        <module name="Spring8" />
         <module name="struts10" />
         <module name="struts2" />
         <module name="struts3" />
@@ -33,6 +34,7 @@
       <module name="Spring6" target="1.7" />
       <module name="Spring6x" target="1.7" />
       <module name="Spring7" target="1.7" />
+      <module name="Spring8" target="1.7" />
       <module name="struts1" target="1.7" />
       <module name="Struts1" target="1.7" />
       <module name="struts10" target="1.7" />
